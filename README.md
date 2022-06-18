@@ -42,15 +42,15 @@ Users should be able to:
 <table>
         <tr>
             <td>
-                <img src="images/desktop-solution.png"
+                <img src="images/desktop_solution.png"
                     alt="Desktop solution" width="100%" title="Desktop solution"/>
             </td>
             <td>
-                <img src="images/tablet-solution.png"
+                <img src="images/tablet_solution.png"
                     alt="Tablet solution" width="100%" title="Tablet solution"/>
             </td>
             <td>
-                <img src="images/mobile-solution.png"
+                <img src="images/mobile_solution.png"
                     alt="Mobile solution" title="Mobile solution" width="100%" />
             </td>
         </tr>
