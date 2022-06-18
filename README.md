@@ -1,17 +1,33 @@
+<div id="top"></div>
+<div align="center">
+
+<a href="https://www.frontendmentor.io/profile/CosmoArt"><img src="https://img.shields.io/badge/-Frontend%20Mentor-brightgreen?style=for-the-badge" alt="Frontend Mentor" /></a>
+<a href="https://www.instagram.com/cosmo_art0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://cosmoart.github.io/cosmoart/index.html"><img src="https://img.shields.io/badge/-My%20Website-blueviolet?style=for-the-badge" alt="My Website" /></a>
+<a href="https://www.discord.com/users/734087835472232559/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://twitter.com/CosmoArt0"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+
 # Frontend Mentor - Stats preview card component solution
 
-This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Table of contents
+[Solution][solution-url] . [Live Page][live-page]
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-- [Author](#author)
+</div>
+
+<details>
+<summary>Table of contents</summary>
+
+-   [Overview](#overview)
+    -   [The challenge](#the-challenge)
+    -   [Screenshot](#screenshot)
+    -   [Links](#links)
+-   [My process](#my-process)
+    -   [Built with](#built-with)
+    -   [What I learned](#what-i-learned)
+-   [Author](#author)
+
+</details>
 
 ## Overview
 
@@ -19,33 +35,56 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 Users should be able to:
 
-- View the optimal layout depending on their device's screen size
+-   View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
 
-![](design/desktop-solution.png) 
-![](design/mobile-solution.png)
+<table>
+        <tr>
+            <td>
+                <img src="images/desktop-solution.png"
+                    alt="Desktop solution" width="100%" title="Desktop solution"/>
+            </td>
+            <td>
+                <img src="images/tablet-solution.png"
+                    alt="Tablet solution" width="100%" title="Tablet solution"/>
+            </td>
+            <td>
+                <img src="images/mobile-solution.png"
+                    alt="Mobile solution" title="Mobile solution" width="100%" />
+            </td>
+        </tr>
+</table>
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/CosmoArt/stats-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://cosmoart.github.io/stats-preview-card-component-main/)
+-   [Solution][solution-url]
+-   [Live Page][live-page]
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- Desktop-first workflow
+-   Semantic HTML5 markup
+-   CSS custom properties
+-   Flexbox
+-   Desktop-first workflow
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### What I learned
 
 This challenge was a great learning opportunity, it was also very useful to reinforce previous knowledge, and face problems that had not been presented to me before.
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## Author
 
-- Instagram - [@cosmo_art0](https://www.instagram.com/cosmo_art0/)
-- Frontend Mentor - [@CosmoArte](https://www.frontendmentor.io/profile/CosmoArt)
-- Twitter - [@CosmoArt0](https://twitter.com/CosmoArt0)
+-   Instagram - [@cosmo_art0](https://www.instagram.com/cosmo_art0/)
+-   Frontend Mentor - [@CosmoArt](https://www.frontendmentor.io/profile/cosmoart)
+-   Twitter - [@CosmoArt0](https://twitter.com/cosmoart0)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+[live-page]: https://cosmoart.github.io/stats-preview-card-component-main/
+[solution-url]: https://www.frontendmentor.io/solutions/stats-preview-card-component-solution-Yjz3mMJLA
